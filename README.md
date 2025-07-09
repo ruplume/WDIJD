@@ -2,7 +2,6 @@
 ###### Preface: This only works for Linux!
 What Did I Just Do (or WDIJD for short) is for logging commands, windows, and apps.
 
---
 ## How to use WDIJD
 ###### (Tested only on X11, may or may not work for Wayland.)
 
