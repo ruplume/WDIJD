@@ -1,5 +1,5 @@
 # What Did I Just Do?
-###### Preface: This only works for Linux!
+###### Prerequisite: This only works for Linux!
 What Did I Just Do (or WDIJD for short) is for logging commands, windows, and apps.
 
 ## How to use WDIJD
