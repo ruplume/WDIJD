@@ -16,7 +16,7 @@ Enter the directory and build.
 
 Run the Executable.
 
-    ./whatdidido
+    ./wdijd
 
 You just logged your commands!
 
@@ -37,5 +37,3 @@ You just logged your commands!
        bool trackActiveWindow = true;
        bool trackRunningApps = true;
     };
-
-You can change it from true to false so you can choose what you want to track.
