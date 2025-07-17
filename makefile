@@ -15,6 +15,9 @@ all: $(TARGET)
 $(TARGET): $(OBJS)
 	$(CXX) $(CXXFLAGS) -o $@ $^
 
+log_viewer: log_viewer.cpp
+	$(CXX) $(CXXFLAGS) -lncurses -o log_viewer log_viewer.cpp
+
 # Clean up build artifacts
 clean:
 	rm -f $(OBJS) $(TARGET)
