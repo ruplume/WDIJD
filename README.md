@@ -28,7 +28,7 @@ You just logged your commands!
 
 ### How do I use the config file?
 
-  Enter the file "config.hpp" and you can change each to your liking
+  Enter the file "config.hpp" with a text editor, and you can change each to your liking
 
     #pragma once
    
